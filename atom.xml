@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://psmen.github.io</id>
     <title>PSMEN</title>
-    <updated>2020-10-13T07:26:10.184Z</updated>
+    <updated>2020-10-13T07:43:32.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://psmen.github.io"/>
     <link rel="self" href="https://psmen.github.io/atom.xml"/>
@@ -11,35 +11,31 @@
     <icon>https://psmen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, PSMEN</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://psmen.github.io/post/hello-gridea/</id>
-        <link href="https://psmen.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[关于PSMEN]]></title>
+        <id>https://psmen.github.io/post/guan-yu-psmen/</id>
+        <link href="https://psmen.github.io/post/guan-yu-psmen/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2020-10-13T07:34:21.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>关于拍摄</strong><br>
+我们共同完成一次摄影作品的拍摄，你不需要紧张拍摄过程的繁复，为避免千篇一律的造型，也厌倦婚纱公司各种令人结舌的浓妆，我们不提供化妆和服装，希望你轻妆上阵即可，服装建议选择鲜艳明快的颜色。<br>
+拍摄过程会在很轻松的气氛下完成,可能就是在江边、在路上、在车上,都有可能。<br>
+作为在这个城市成长的，我们知道哪个地方的花开得最灿烂，哪个地方的灯光最温暖。<br>
+我不仅希望能为你记录下最美的一刻，也希望能成为你的朋友。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p><strong>关于拍摄</strong><br>
+我们共同完成一次摄影作品的拍摄，你不需要紧张拍摄过程的繁复，为避免千篇一律的造型，也厌倦婚纱公司各种令人结舌的浓妆，我们不提供化妆和服装，希望你轻妆上阵即可，服装建议选择鲜艳明快的颜色。<br>
+拍摄过程会在很轻松的气氛下完成,可能就是在江边、在路上、在车上,都有可能。<br>
+作为在这个城市成长的，我们知道哪个地方的花开得最灿烂，哪个地方的灯光最温暖。<br>
+我不仅希望能为你记录下最美的一刻，也希望能成为你的朋友。</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<p><strong>拍摄详情</strong><br>
+Why necessary<br>
+一辈子很长，也很短，需要那么一些美好的照片去纪念。爱自己才是开始一生的罗曼史。<br>
+在这熟悉并陌生的城市里在马路边散步，在公园里享受阳光，在咖啡馆清吧里听歌，在落地窗餐厅吃饭，最美的场景也许是来自窗外的远处所有的一点一滴，都可能成为我拍摄的内容。<br>
+拍摄手法更倾向于“抓拍为主”给你最轻松的方式，照片风格以客人轻松愉快的玩乐为主，以清新、自然的风格定格你一瞬间的美好神情，不建议过分摆拍。自然的流露更加真实。</p>
+<p><strong>提前预约</strong><br>
+下订单约拍后,拍摄前两天会跟你确认拍摄,若到时无回应将会改<br>
+为他人服务。如有改变请提前24小时联系。</p>
 ]]></content>
     </entry>
 </feed>
